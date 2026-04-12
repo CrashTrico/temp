@@ -40,7 +40,7 @@ while True:
     show_menu()
     choice = input("Choose an option: ")
 
-    if choice == "1":
+    if choice == "12":
         calculator()
     elif choice == "2":
         save_note()
