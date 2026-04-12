@@ -5,7 +5,7 @@ import sys
 def show_menu():
     print("\n=== TEMP TOOL ===")
     print("1. Quick Calculator")
-    print("2. Save a Note")
+    print("2. Save a  Note")
     print("3. Show Saved Notes")
     print("4. Random Number Generator")
     print("5. Exit")
